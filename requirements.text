@@ -1,1 +1,12 @@
+streamlit
 python-dotenv
+chromadb
+sentence-transformers
+groq
+langdetect
+deep-translator
+unstructured
+pypdf
+numpy
+torch
+transformers
